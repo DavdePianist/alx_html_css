@@ -1,2 +1,1 @@
-Have a fully functional web page that looks professional
-# alx_html_css
+Have a fully functional web page that looks professional using figma 
